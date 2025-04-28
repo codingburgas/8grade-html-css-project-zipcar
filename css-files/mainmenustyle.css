@@ -128,19 +128,127 @@ header p {
 
 /* Our fleet part */
 
-.our-fleet h3{
-    font-size: 25px;
+/* familycar */
+.cars{
+    height: 500px;
+    width: 80%;
+    margin: auto;
+    border: 10px solid black;
+    display: flex;
+    gap: 100px;
+}
+.familycar{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 370px;
+    border: 5px solid black;
+}
+.familycar img{
+    margin: 0 auto;
+    width: 100px;
+}
+.familycar h3{
     text-align: center;
-    padding: 30px;
-    background-color: #333;
-    color: aliceblue;
-    
+    font-size: 30px;
 }
-.our-fleet .Family-car img{
-    width: 450px;
-    display: block;
-    float: left;
+.familycar p{
+    padding-top:20px ;
+    padding-left: 20 px;
+    text-align: left;
+    font-size: 20px;
 }
-.Family-car .f-car-div{
-    display: block;
+/* sports car */
+
+.sportscar{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 370px;
+    border: 5px solid black;
+}
+.sportscar img{
+    margin: 0 auto;
+    width: 100px;
+}
+.sportscar h3{
+    text-align: center;
+    font-size: 30px;
+}
+.sportscar p{
+    padding-top:20px ;
+    padding-left: 20 px;
+    text-align: left;
+    font-size: 20px;
+}
+
+/* Vans */
+.Vanscar{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 370px;
+    border: 5px solid black;
+}
+.Vanscar img{
+    margin: 0 auto;
+    width: 100px;
+}
+.Vanscar h3{
+    text-align: center;
+    font-size: 30px;
+}
+.Vanscar p{
+    padding-top:20px ;
+    padding-left: 20 px;
+    text-align: left;
+    font-size: 20px;
+}
+
+/* Luxury cars */
+
+.Luxurycar{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 370px;
+    border: 5px solid black;
+}
+.Luxurycar img{
+    margin: 0 auto;
+    width: 100px;
+}
+.Luxurycar h3{
+    text-align: center;
+    font-size: 30px;
+}
+.Luxurycar p{
+    padding-top:20px ;
+    padding-left: 20 px;
+    text-align: left;
+    font-size: 20px;
+}
+
+/* SUV */
+
+.SUVcar{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 370px;
+    border: 5px solid black;
+}
+.SUVcar img{
+    margin: 0 auto;
+    width: 100px;
+}
+.SUVcar h3{
+    text-align: center;
+    font-size: 30px;
+}
+.SUVcar p{
+    padding-top:20px ;
+    padding-left: 20 px;
+    text-align: left;
+    font-size: 20px;
 }
