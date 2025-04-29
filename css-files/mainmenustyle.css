@@ -17,6 +17,11 @@ header {
     text-align: center;
     justify-content: space-between;
     padding-top: 60px;
+
+}
+a {
+    color: inherit;
+    text-decoration: none;
 }
 header p {
     display: flex;
@@ -103,3 +108,15 @@ header p {
 .imageLayoutItem img {
     width: 100%;
 }
+
+.darkerSection h2{
+    text-align: center;
+
+}
+.darkerSectionLayout {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 40px;
+}
+    
+
