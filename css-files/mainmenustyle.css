@@ -93,6 +93,8 @@ header p {
     background-color: #333;
 }
 
+
+/* cars */
 .imageLayout {
     margin-top: 30px;
     display: grid;
@@ -108,7 +110,32 @@ header p {
 .imageLayoutItem img {
     width: 100%;
 }
+/* book now */
+.book {
+    display: block;
+    margin: 10px auto 0 auto; 
+    padding: 10px 20px;
+    background-color: #333; 
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 23px;
+    letter-spacing: 6px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .book:hover {
+    background-color: #555; 
+  }
+    
 
+
+.darkerSection{
+    padding-top: 50px;
+    padding-left: 25px;
+    font-size: 23px;
+}
 .darkerSection h2{
     text-align: center;
 
@@ -118,5 +145,4 @@ header p {
     grid-template-columns: 1fr 1fr 1fr;
     gap: 40px;
 }
-    
 
