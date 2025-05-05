@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
 * {
     font-family: "Bebas Neue", sans-serif
     background-color: whitesmoke;
@@ -6,16 +7,107 @@
     list-style: none;
 }
 
+body {
+    font-family: "Bebas Neue", sans-serif;
+}
+
+/* header part */
+header {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+header p {
+    display: flex;
+    align-items: center;
+    padding-right: 60px;
+}
+
 header h1 {
     margin-top: 20px;
     text-align: center;
 }
 
-body {
-    font-family: "Bebas Neue", sans-serif;
+header h1 span:nth-child(1) {
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 70px;
+}
+header h1 span:nth-child(2) {
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 35px;
+}
+header p {
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+}
+.aboutUs h1 {
+    margin-top: 40px;
+    font-size: 3rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+    
+.aboutUs {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+/* navigation */
+.centerNavbar li {
+    list-style: none;
+    background-color: #333;
+}
+
+.centerNavbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+    padding: 10px 60px;
+    max-width: 94%;
+}
+.centerNavbar a {
+    display: block;
+    letter-spacing: 3px;
+    display: block;
+    padding: 10px 20px;
+    color: rgb(255, 255, 255);
+    margin: 0 60px;
+    font-size: 18px;
+    text-transform: uppercase;
+    transition: 200ms;
+    background-color: #333;
+}
+.centerNavbar a:hover {
+    background-color: #555;
+    letter-spacing: 5px;
+    color: #4e9eff;
+    border-radius: 5px;
+}
+.centerNavbar ul {
+    display: flex;
+    justify-content: center;
+    padding-left: 60px;
+    padding-right: 60px;
+    gap: 40px;
+    background-color: #333;
+}
+.centerNavbar nav {
+    max-width: 100%;
+    background-color: #333;
 }
 
 .ourMission {
+    font-size: x-large;
     margin-top: 40px;
     margin-left: 20px;
     margin-right: 20px;
@@ -24,6 +116,7 @@ body {
 }
 
 .ourMission h2 {
+    font-size: xx-large;
     margin-bottom: 20px;
     text-align: center;
 }
