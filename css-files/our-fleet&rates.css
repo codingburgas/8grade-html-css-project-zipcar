@@ -1,0 +1,166 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+/* for whole project */
+* {
+    background-color: whitesmoke;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    font-family: "Bebas Neue", sans-serif;
+}
+
+/* header part */
+header {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding-top: 60px;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+header p {
+    display: flex;
+    align-items: center;
+    padding-right: 60px;
+}
+header h1 {
+    padding-left: 60px;
+}
+
+header h1 span:nth-child(1) {
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 70px;
+}
+header h1 span:nth-child(2) {
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 35px;
+}
+header p {
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+}
+
+/* navigation */
+.centerNavbar li {
+    list-style: none;
+    background-color: #333;
+}
+
+.centerNavbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+    padding: 10px 60px;
+    max-width: 94%;
+}
+.centerNavbar a {
+    display: block;
+    letter-spacing: 3px;
+    display: block;
+    padding: 10px 20px;
+    color: rgb(255, 255, 255);
+    margin: 0 60px;
+    font-size: 18px;
+    text-transform: uppercase;
+    transition: 200ms;
+    background-color: #333;
+}
+.centerNavbar a:hover {
+    background-color: #555;
+    letter-spacing: 5px;
+    color: #4e9eff;
+    border-radius: 5px;
+}
+.centerNavbar ul {
+    display: flex;
+    justify-content: center;
+    padding-left: 60px;
+    padding-right: 60px;
+    gap: 40px;
+    background-color: #333;
+}
+.centerNavbar nav {
+    max-width: 100%;
+    background-color: #333;
+}
+
+/* book car */
+
+.container {
+    margin-top:10px ;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    /* background-color: white; */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .container:hover{
+    
+  }
+  .car-Image img {
+    max-width: 300px;
+    height: auto;
+    background:transparent ;
+  }
+  .details {
+    margin-left: 20px;
+    background-color:#cccccc;
+    border: 2px solid #cccccc;
+    border-radius:10px ;
+  }
+  .details *{
+    background-color: #cccccc;
+  }
+  h1 {
+    margin: 0 0 10px 0;
+    font-size: 40px;
+  }
+  p {
+    margin: 5px 0;
+  }
+  ul.features {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .feature-item {
+    background-color: #f0f0f0;
+    padding: 5px 10px;
+    border-radius: 15px;
+  }
+  .price {
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .book-btn {
+    display: block;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom:10px ;
+    margin-top: 20px;
+    background-color: #1a1a1a;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  .book-btn:hover{
+    transition: 100ms;
+    background-color:#555;
+    font-size: 20px;
+  }
+
