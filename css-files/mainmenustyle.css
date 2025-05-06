@@ -23,6 +23,7 @@ a {
     text-decoration: none;
 }
 header p {
+    margin-top: 30px;
     display: flex;
     align-items: center;
     padding-right: 60px;
