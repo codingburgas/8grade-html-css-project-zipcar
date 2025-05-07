@@ -46,6 +46,7 @@ header p {
     display: flex;
     flex-direction: column;
     font-size: 25px;
+    margin-top:10px ;
 }
 /* navigation */
 .centerNavbar li {
@@ -60,6 +61,7 @@ header p {
     background-color: #333;
     padding: 10px 60px;
     max-width: 94%;
+    
 }
 .centerNavbar a {
     display: block;
