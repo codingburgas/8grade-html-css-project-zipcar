@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+/* for whole project */
 * {
-    font-family: "Bebas Neue", sans-serif;
     background-color: whitesmoke;
     margin: 0;
     text-decoration: none;
@@ -13,11 +13,10 @@ body {
 
 /* header part */
 header {
-    
     display: flex;
     text-align: center;
     justify-content: space-between;
-    margin-top: 40px;
+    padding-top: 60px;
 }
 a {
     color: inherit;
@@ -29,11 +28,8 @@ header p {
     align-items: center;
     padding-right: 60px;
 }
-
 header h1 {
     padding-left: 60px;
-    margin-top: 20px;
-    text-align: center;
 }
 
 header h1 span:nth-child(1) {
