@@ -8,6 +8,7 @@
 }
 
 body {
+    
     font-family: "Bebas Neue", sans-serif;
 }
 
@@ -93,128 +94,123 @@ header p {
     max-width: 100%;
     background-color: #333;
 }
-
-/* book car */
-
-.container {
-  margin: 20px auto;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: left;
-  gap: 30px;
-  padding: 20px;
-  max-width: 1000px;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  background-color: white;
+/* logIn form */
+form{
+    overflow: hidden;
+    height: 500px;
+    width: 300px;
+    margin: 0 auto;
+    border: 5px solid black;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
+.logInH1{
+    padding-top: 20px;
+    font-size: 30px;
+    text-align: center;
 
-.car-Image img {
-  max-width: 400px;
-  width: 300px;
-  height: auto;
-  background-color: white;
 }
-.details {
-  width: 350px;
-  padding: 20px;
-  background-color: #cccccc;
-  border: 2px solid #cccccc;
-  border-radius: 10px;
-  flex-shrink: 0;
+.input{
+    text-align: center;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    flex: 1;
 }
-
-.details * {
-  background-color: #cccccc;
+.input1{
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 30px;
+    align-self: center;
 }
-
-h1 {
-  margin: 0 0 10px 0;
-  font-size: 32px;
-  font-weight: bold;
-}
-p {
-  margin: 5px 0;
+.input-1{
+    margin-bottom: 20px;
 }
 
-.features {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  list-style: none;
-  padding: 0;
-  margin: 10px 0;
+.input-2{
+    margin-bottom: 20px;
 }
 
-.feature-item {
-  background-color: #f0f0f0;
-  padding: 5px 12px;
-  border-radius: 15px;
-  font-weight: bold;
-  font-size: 14px;
+p:nth-child(1){
+    padding-right: 190px;
+}
+.in-Par{
+    padding-right: 150px;
+    float: left;
+    font-size: 23px;
+    padding-left: 10px;
+}
+.in-Par-1{
+    padding-left: 20px;
 }
 
-.price {
-  font-size: 22px;
-  font-weight: bold;
-  margin: 10px 0;
+.submit{
+    font-size: 20px;
+    color: white;
+    align-self: center;
+    width: 258px;
+    margin-top:20px ;
+    height: 40px;
+    align-items: center;
+    text-align: center;
+    background-color:#555 ;
+    border: 1px solid black;
+    border-radius:5px ;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    
+}
+.submit:hover{
+    transition: 150ms;
+    height: 70px;
+    font-weight: bold;
+    font-size: 22px;
+    width: 280px;
+}
+.logIn a{
+    background: none;
 }
 
-.book-btn {
-  display: block;
-  width: 100%;
-  padding: 10px 0;
-  margin-top: 20px;
-  background-color: #1a1a1a;
-  color: white;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 5px;
-  font-weight: bold;
-  transition: background-color 0.2s, font-size 0.2s;
-}
-
-.book-btn:hover {
-  background-color: #555;
-  font-size: 18px;
-}
 
 
 /* footer */
-/* footer */
 
-.footer *{
-  background-color: #333;
+.footer * {
+    background-color: #333;
 }
-.footerContent{
-  display: flex;
-  justify-content: space-between;
+.footerContent {
+    display: flex;
+    justify-content: space-between;
 }
 .footer {
-  background-color: #333;
-  color: white;
-  padding: 40px 60px 20px;
-  font-size: 16px;
-  margin-top: 60px;
+    background-color: #333;
+    color: white;
+    padding: 40px 60px 20px;
+    font-size: 16px;
+    margin-top: 60px;
 }
 
-.footerSection1{
-  float: left;
-  font-size: 25px;
+.footerSection1 {
+    float: left;
+    font-size: 25px;
 }
-.footerSection2{
-  font-size:25px ;
+.footerSection2 {
+    font-size: 25px;
 }
-.footerSection2 h4{
-  font-size:30px ;
+.footerSection2 h4 {
+    font-size: 30px;
 }
-.footerSection3{
-  font-size: 25px;
+.footerSection3 {
+    font-size: 25px;
 }
-.footerSection3 h4{
-  font-size: 30px;
+.footerSection3 h4 {
+    font-size: 30px;
 }
-.footerBottom{
-  font-size: 23px;
+.footerBottom {
+    font-size: 23px;
 }
