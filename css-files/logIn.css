@@ -5,6 +5,7 @@
     margin: 0;
     text-decoration: none;
     list-style: none;
+    
 }
 
 body {
@@ -62,7 +63,7 @@ header p {
     align-items: center;
     background-color: #333;
     padding: 10px 60px;
-    max-width: 94%;
+    max-width: 100%;
 }
 .centerNavbar a {
     display: block;
@@ -105,7 +106,7 @@ form{
     display: flex;
     flex-direction: column;
     margin-top: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
 }
 .logInH1{
     padding-top: 20px;
@@ -170,7 +171,7 @@ p:nth-child(1){
     height: 70px;
     font-weight: bold;
     font-size: 22px;
-    width: 280px;
+    max-width: 280px;
 }
 .logIn a{
     background: none;
@@ -182,40 +183,39 @@ button {
 }
 
 
-
-/* footer */
-
-.footer * {
+.footer *{
     background-color: #333;
-}
-.footerContent {
+  }
+  .footerContent{
     display: flex;
     justify-content: space-between;
-}
-.footer {
+  }
+  .footer {
     background-color: #333;
     color: white;
     padding: 40px 60px 20px;
     font-size: 16px;
     margin-top: 60px;
-}
-
-.footerSection1 {
+    
+    
+  }
+  
+  .footerSection1{
     float: left;
     font-size: 25px;
-}
-.footerSection2 {
+  }
+  .footerSection2{
+    font-size:25px ;
+  }
+  .footerSection2 h4{
+    font-size:30px ;
+  }
+  .footerSection3{
     font-size: 25px;
-}
-.footerSection2 h4 {
+  }
+  .footerSection3 h4{
     font-size: 30px;
-}
-.footerSection3 {
-    font-size: 25px;
-}
-.footerSection3 h4 {
-    font-size: 30px;
-}
-.footerBottom {
+  }
+  .footerBottom{
     font-size: 23px;
-}
+  }

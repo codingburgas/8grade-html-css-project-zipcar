@@ -61,7 +61,7 @@ header p {
     align-items: center;
     background-color: #333;
     padding: 10px 60px;
-    max-width: 94%;
+    max-width: 100%;
 }
 .centerNavbar a {
     display: block;
@@ -104,6 +104,11 @@ header p {
     justify-content: space-between;
 }
 .footer {
+    box-sizing: border-box;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
     background-color: #333;
     color: white;
     padding: 40px 60px 20px;
