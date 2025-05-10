@@ -1,4 +1,24 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/37xhDVrI)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19338662&assignment_repo_type=AssignmentRepo)
-# 8grade---RentACar
-first 8 grade project
+<font size="3"><b>Team members:</b></font><br>
+&nbsp;&nbsp;&nbsp;&nbsp;    - Scrum trainer: Juliana Stoykova 8V<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;    - HTML developer: Vladimir Kosev 8G<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    - CSS developer:Nikoleta Georgieva<br>
+&nbsp;&nbsp;&nbsp;&nbsp;   - Designer:Simona Dimova<br>
+
+---
+<font size="3"><b>About our project:</b></font><br>
+&nbsp;&nbsp;&nbsp;&nbsp;    - Our project is about car rent<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    - When u open it will throw you to the home page<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    - If you want to return to the home page, you need to click on the name of the project (ZIPCAR) <br>
+
+---
+<font size="3"><b>Used technologies</b></font><br>
+&nbsp;&nbsp;&nbsp;&nbsp;    - <img src="images/Microsoft-PowerPoint-Logo-32233333.png" style="width:50px"> Powerpoint<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    -<img src="images/word.png" style=" width: 60px">Word<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    -&nbsp;&nbsp;&nbsp; <img src="images/vscode.png" style="width:30px">&nbsp;&nbsp;&nbsp;&nbsp;Visual Studio &Code<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    -&nbsp;&nbsp;&nbsp;<img src="images/teams-removebg-preview.png" style="width:40px">&nbsp;&nbsp;Teams
+
+
+
+
+
+
