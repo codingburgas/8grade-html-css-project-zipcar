@@ -101,8 +101,7 @@ form{
     height: 500px;
     width: 300px;
     margin: 0 auto;
-    border: 5px solid black;
-    border-radius: 15px;
+    box-shadow: rgba(19, 19, 19, 0.2) 0px 2px 8px 0px;
     display: flex;
     flex-direction: column;
     margin-top: 100px;

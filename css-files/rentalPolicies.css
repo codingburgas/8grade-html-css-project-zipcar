@@ -12,6 +12,7 @@ body {
 }
 
 /* header part */
+
 header {
     display: flex;
     text-align: center;
@@ -94,6 +95,16 @@ header p {
     background-color: #333;
 }
 
+/* additional info */
+.additional {
+    font-size: larger;
+}
+.info {
+    font-size: 24px;
+}
+.info h3 {
+    font-size: 24px;
+}
 /* footer */
 
 .footer * {
@@ -105,9 +116,6 @@ header p {
 }
 .footer {
     box-sizing: border-box;
-    position: fixed;
-    bottom: 0;
-    left: 0;
     width: 100%;
     background-color: #333;
     color: white;
