@@ -137,14 +137,21 @@ header p {
 }
 /* additional info */
 .additional {
+    margin-left: 50px;
     font-size: larger;
 }
-.info {
+.info p {
     font-size: 24px;
+    color: #555;
 }
 .info h3 {
     font-size: 24px;
 }
+.additionalInfo {
+    margin-left: 50px;
+    box-shadow: rgba(99, 99, 99, 0.1) 0px 2px 8px 0px;
+}
+
 /* footer */
 
 .footer * {
