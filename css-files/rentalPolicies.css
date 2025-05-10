@@ -94,7 +94,47 @@ header p {
     max-width: 100%;
     background-color: #333;
 }
-
+/* Policies Section */
+.name {
+    text-align: center;
+    font-size: xx-large;
+}
+.policies {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 40px 60px;
+    background-color: whitesmoke;
+}
+ 
+.policies div {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+ 
+.policies div:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+ 
+.policies h3 {
+    font-size: x-large;
+    margin-bottom: 15px;
+    color: #0b0b0b;
+}
+ 
+.policies ul {
+    padding-left: 20px;
+    color: #555;
+}
+ 
+.policies ul li {
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
 /* additional info */
 .additional {
     font-size: larger;
