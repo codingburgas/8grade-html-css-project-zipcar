@@ -1,8 +1,8 @@
 <font size="3"><b>Team members:</b></font><br>
 &nbsp;&nbsp;&nbsp;&nbsp;    - Scrum trainer: Juliana Stoykova 8V<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;    - HTML developer: Vladimir Kosev 8G<br>
-&nbsp;&nbsp;&nbsp;&nbsp;    - CSS developer:Nikoleta Georgieva<br>
-&nbsp;&nbsp;&nbsp;&nbsp;   - Designer:Simona Dimova<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    - CSS developer:Nikoleta Georgieva 8B<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    - Designer:Simona Subeva 8A<br>
 
 ---
 <font size="3"><b>About our project:</b></font><br>
