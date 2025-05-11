@@ -12,15 +12,18 @@
 
 ---
 <font size="3"><b>Used technologies</b></font><br>
-&nbsp;&nbsp;&nbsp;&nbsp;    - <img src="images/Microsoft-PowerPoint-Logo-32233333.png" style="width:50px"> Powerpoint<br>
-&nbsp;&nbsp;&nbsp;&nbsp;    -<img src="images/word.png" style=" width: 60px">Word<br>
-&nbsp;&nbsp;&nbsp;&nbsp;    -&nbsp;&nbsp;&nbsp; <img src="images/vscode.png" style="width:30px">&nbsp;&nbsp;&nbsp;&nbsp;Visual Studio Code<br>
-&nbsp;&nbsp;&nbsp;&nbsp;    -&nbsp;&nbsp;&nbsp;<img src="images/teams-removebg-preview.png" style="width:40px">&nbsp;&nbsp;Teams
+&nbsp;&nbsp;&nbsp;&nbsp;    - <img src="images/Microsoft-PowerPoint-Logo-32233333.png" style="width:50px;"> Powerpoint<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    -<img src="images/word.png" style="width: 60px;">Word<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    -&nbsp;&nbsp;&nbsp; <img src="images/vscode.png" style="width:30px;">&nbsp;&nbsp;&nbsp;&nbsp;Visual Studio Code<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    -&nbsp;&nbsp;&nbsp;<img src="images/teams-removebg-preview.png" style="width:40px;">&nbsp;&nbsp;Teams<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    -&nbsp;&nbsp;&nbsp;<img src="images/git.png" style="width:40px;">&nbsp;&nbsp;Git<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    -&nbsp;&nbsp;&nbsp;<img src="images/github.png" style="width:40px;">&nbsp;&nbsp;Github
 
 ---
 <font size="3"><b>Documentation & Presentation</b><font><br>
-&nbsp;&nbsp;&nbsp;&nbsp;    -<a href="Documentation&Presentation/Zipcar.docx"><img src="images/word.png" style=" width: 60px">Documentation<br></a>
-&nbsp;&nbsp;&nbsp;&nbsp;    -<a href="Documentation&Presentation/Zipcar.pptx"><img src="images/Microsoft-PowerPoint-Logo-32233333.png" style=" width: 60px">Presentation<br></a>
+&nbsp;&nbsp;&nbsp;&nbsp;    -<a href="Documentation&Presentation/Zipcar.docx"><img src="images/word.png" style=" width: 60px;">Documentation<br></a>
+&nbsp;&nbsp;&nbsp;&nbsp;    -<a href="Documentation&Presentation/Zipcar.pptx"><img src="images/Microsoft-PowerPoint-Logo-32233333.png" style=" width: 60px; ">Presentation<br></a>
+
 
 
 
