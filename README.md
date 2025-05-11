@@ -17,6 +17,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;    -&nbsp;&nbsp;&nbsp; <img src="images/vscode.png" style="width:30px">&nbsp;&nbsp;&nbsp;&nbsp;Visual Studio &Code<br>
 &nbsp;&nbsp;&nbsp;&nbsp;    -&nbsp;&nbsp;&nbsp;<img src="images/teams-removebg-preview.png" style="width:40px">&nbsp;&nbsp;Teams
 
+---
+<font size="3"><b>Documentation & Presentation</b><font><br>
+&nbsp;&nbsp;&nbsp;&nbsp;    -<a href="Documentation&Presentation/Zipcar.docx"><img src="images/word.png" style=" width: 60px">Documentation<br></a>
+
 
 
 
