@@ -95,7 +95,8 @@ header p {
 }
 
 /* cars */
-.imageLayout {
+
+.imageLayout1 {
     margin-top: 30px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -106,10 +107,11 @@ header p {
     text-align: center;
     font-size: 35px;
 }
-
 .imageLayoutItem img {
     width: 100%;
 }
+
+
 /* book now */
 .book {
     display: block;
