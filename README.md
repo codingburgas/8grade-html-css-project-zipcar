@@ -20,6 +20,7 @@
 ---
 <font size="3"><b>Documentation & Presentation</b><font><br>
 &nbsp;&nbsp;&nbsp;&nbsp;    -<a href="Documentation&Presentation/Zipcar.docx"><img src="images/word.png" style=" width: 60px">Documentation<br></a>
+&nbsp;&nbsp;&nbsp;&nbsp;    -<a href="Documentation&Presentation/Zipcar.pptx"><img src="images/Microsoft-PowerPoint-Logo-32233333.png" style=" width: 60px">Presentation<br></a>
 
 
 
