@@ -57,7 +57,6 @@ body {
 }
 
 /* header part */
-/* header part */
 header {
     display: flex;
     text-align: center;
@@ -160,62 +159,6 @@ header p {
     font-size: 16px;
     font-weight: bold;
     color: #555;
-}
-
-/* Reasons */
-.reasons1 {
-    max-width: 100%;
-    max-width: 300px;
-    margin: 0;
-    padding: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
-    border-radius: 10px;
-    background-color: #fff;
-    text-align: center;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    float: left;
-}
-
-.reasons1:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3), 0 12px 24px rgba(0, 0, 0, 0.25);
-}
-
-.reasons2 {
-    max-width: 100%;
-    max-width: 300px;
-    margin: 0 auto;
-    padding: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
-    border-radius: 10px;
-    background-color: #fff;
-    text-align: center;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    position: relative;
-}
-
-.reasons2:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3), 0 12px 24px rgba(0, 0, 0, 0.25);
-}
-
-.reasons3 {
-    width: 100%;
-    max-width: 300px;
-    margin: 0;
-    padding: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
-    border-radius: 10px;
-    background-color: #fff;
-    text-align: center;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    float: none;
-    margin-left: auto;
-    margin-right: 20px;
-}
-.reasons3:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3), 0 12px 24px rgba(0, 0, 0, 0.25);
 }
 
 
